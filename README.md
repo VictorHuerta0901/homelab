@@ -30,7 +30,7 @@ Network:
 ### pfSense Firewall Lab
 Built a segmented network using Proxmox and pfSense with DHCP, routing, and internet access.
 
-➡️ [View Project](./networking/pfsense-firewall-lab)
+➡️ [View Project](monitoring/networking/pfsense-firewall-lab.txt)
 
 ## Lab Goals
 
