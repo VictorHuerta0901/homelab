@@ -44,8 +44,10 @@ Initial connectivity failed because:
 - Layer 3 connectivity validation
 
 ## Screenshots
-- Ubuntu `ip a` 
-- Successful ping to pfSense
+- Ubuntu `ip a`
+- <img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/6d3582b4-d928-4b1b-9ccb-7218a2dc0519" />
+- <img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/27e44185-36f3-425c-8216-c84f9363f1f5" />
+- Successful ping to pfSense 
 - Successful ping to public internet
 - pfSense LAN configuration
 ---
