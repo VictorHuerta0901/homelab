@@ -16,6 +16,13 @@ Key work:
 
 ➡️ Full breakdown: [Jellyfin Deployment](docs/services/jellyfin.md)
 
+## 🔧 Problems Solved
+
+- Disk not detected inside VM → fixed by adding storage at hypervisor level
+- Mount persistence issue → resolved with proper `/etc/fstab` configuration
+- Netdata install failure → fixed curl redirect issue using `-L` flag
+- Proxmox repository errors → corrected enterprise repo configuration
+
 ## Core Technologies
 - Proxmox VE
 - Ubuntu Server
