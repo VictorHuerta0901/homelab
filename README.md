@@ -3,6 +3,19 @@
 ## Overview
 This repository documents my personal homelab built to develop hands-on skills related to data center, virtualization, Linux administration, storage, and networking.
 
+## 🚀 Highlight Project: Jellyfin Infrastructure
+
+Deployed a media server on Proxmox with dedicated virtual storage backed by hardware RAID 10.
+
+Key work:
+- Attached and configured a 600GB virtual disk inside a VM
+- Partitioned and formatted storage using Linux tools
+- Configured persistent mounts using `/etc/fstab`
+- Verified storage and resolved mount issues
+- Integrated service into overall VM infrastructure
+
+➡️ Full breakdown: [Jellyfin Deployment](docs/services/jellyfin.md)
+
 ## Core Technologies
 - Proxmox VE
 - Ubuntu Server
