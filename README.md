@@ -29,6 +29,7 @@ This repository documents my personal homelab built to develop hands-on skills r
 - **103 - net-pfsense**: pfSense firewall VM
 - **104 - test-firewall**: Ubuntu firewall testing VM
 - **105 - app-jellyfin**: Jellyfin media server with dedicated storage
+![IMG_A8D568CC-CC71-4296-8966-8C0A7D8EA6D4](https://github.com/user-attachments/assets/ee1b76a1-5392-4334-84c8-c921dc828355)
 
 ## Featured Work
 
