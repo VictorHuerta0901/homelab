@@ -62,3 +62,11 @@ Documented here: [Jellyfin Deployment](docs/services/jellyfin.md)
 - Troubleshoot networking
 - Implement monitoring systems
 - Build production-style infrastructure
+
+## Documentation
+
+- [Jellyfin Service](docs/services/jellyfin.md)
+- [Netdata Monitoring](docs/services/netdata.md)
+- [Docker Setup](docs/services/docker.md)
+- [pfSense Lab](docs/infrastructure/pfsense.md)
+- [DHCP Troubleshooting](docs/troubleshooting/dhcp.md)
